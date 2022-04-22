@@ -1,5 +1,7 @@
 ## Try Sample Applicaion
 https://gleaming-truffle-bb1d5f.netlify.app/
+Email - admin@mail.com
+Password - 123@abcde
 
 ## Available Scripts
 
