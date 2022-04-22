@@ -1,5 +1,5 @@
 ## Try Sample Applicaion
-https://gleaming-truffle-bb1d5f.netlify.app/product
+https://gleaming-truffle-bb1d5f.netlify.app/
 
 ## Available Scripts
 
